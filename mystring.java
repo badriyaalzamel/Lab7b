@@ -19,7 +19,7 @@ public class mystring {
 				Temp[i]= (char)(Temp[i] - 'A' + 'a') ;
 		
 			
-			
+			else
 			if (Temp[i] >= 'a' && Temp[i] <= 'z')
 				Temp[i]= (char)(Temp[i] - 'a' + 'A') ;
 			Text += Temp[i];
